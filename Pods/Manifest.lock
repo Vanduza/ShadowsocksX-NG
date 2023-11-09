@@ -15,7 +15,7 @@ PODS:
 DEPENDENCIES:
   - Alamofire (~> 5.4.3)
   - BRLOptionParser (~> 0.3.1)
-  - GCDWebServer (~> 3.0)
+  - GCDWebServer
   - MASShortcut (~> 2)
   - RxCocoa (~> 6.2.0)
   - RxSwift (~> 6.2.0)
@@ -39,6 +39,6 @@ SPEC CHECKSUMS:
   RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
   RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
 
-PODFILE CHECKSUM: 5e6ee339e4466d456309238c104e8625cd1e3e41
+PODFILE CHECKSUM: 693dd54ba7614ed5a731a28602485940dc20ea33
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.13.0

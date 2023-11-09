@@ -1,6 +1,6 @@
 # Uncomment this line to define a global platform for your project
 # platform :ios, '9.0'
-platform :macos, '10.12'
+platform :macos, '10.14'
 
 target 'ShadowsocksX-NG' do
   # Comment this line if you're not using Swift and don't want to use dynamic frameworks
@@ -8,7 +8,7 @@ target 'ShadowsocksX-NG' do
 
   # Pods for ShadowsocksX-NG
   pod 'Alamofire', '~> 5.4.3'
-  pod "GCDWebServer", "~> 3.0"
+  pod "GCDWebServer"
   pod 'MASShortcut', '~> 2'
   
   # https://github.com/ReactiveX/RxSwift/blob/master/Documentation/GettingStarted.md
